@@ -1,0 +1,15 @@
+/ArepaCoin
+|-- index.html
+|-- styles.css
+|-- scripts.js
+|-- /assets
+|   |-- Arepacoin.webp
+|-- /subpages
+|   |-- mission.html
+|   |-- vision.html
+|   |-- arepas.html
+|   |-- recipes.html
+|   |-- crypto-news.html
+|   |-- politics.html
+|   |-- health.html
+|   |-- latin-achievements.html
