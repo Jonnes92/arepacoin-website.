@@ -1,0 +1,10 @@
+/assets
+  /images
+    ArepaCoin.png
+    hero-background.jpg
+    arepa-history.jpg
+  /icons
+    twitter-icon.png
+    discord-icon.png
+  /videos
+    introduction.mp4

@@ -1,0 +1,20 @@
+
+---
+
+### Publicación en GitHub Pages
+
+1. **Subir a GitHub:**
+   - Crea un repositorio en GitHub llamado `ArepaCoin-Website`.
+   - Sube tu proyecto a este repositorio usando `git`.
+
+2. **Activar GitHub Pages:**
+   - Ve a la configuración del repositorio en GitHub.
+   - Habilita GitHub Pages desde la sección **Pages**.
+   - Selecciona la rama principal y la carpeta `/root`.
+
+3. **Enlace Público:**
+   - GitHub generará un enlace público para tu sitio (e.g., `https://tu-usuario.github.io/ArepaCoin-Website`).
+
+---
+
+¿Te ayudo a generar el repositorio inicial y subir los archivos organizados? 😊

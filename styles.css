@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(to right, #FFC107, #005BBB, #EF3340);
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+}
+
+header img {
+    height: 100px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #005BBB;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2em;
+}
+
+.hero {
+    background: url('../assets/hero-background.jpg') no-repeat center center / cover;
+    text-align: center;
+    padding: 50px 20px;
+    color: white;
+}
+
+button {
+    background-color: #EF3340;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
